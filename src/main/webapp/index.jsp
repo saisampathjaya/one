@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>happyCollection 2025</h1>
+            <h1>niceCollection 2025</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -1005,7 +1005,7 @@
     <section class="container testimonials">
         <div class="section-title">
             <h2>What Our Customers Say</h2>
-            <p>Trusted by thousands of happy customers worldwide</p>
+            <p>Trusted by thousands of nice customers worldwide</p>
         </div>
         
         <div class="testimonial-slider">
